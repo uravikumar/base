@@ -42,6 +42,7 @@
 #
 # Copyright 2018 Your name here, unless otherwise noted.
 #
+#first comment
 class base {
   include base::manage_hosts_file
   include base::packages
