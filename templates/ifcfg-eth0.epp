@@ -1,0 +1,7 @@
+DEVICE=<%= $interface_name %>
+BOOTPROTO="static"
+GATEWAY=192.168.0.1
+IPADDR=<%= $ip_address %>
+NETMASK=<%= $net_mask %>
+NM_CONTROLLED="no"
+ONBOOT="yes"

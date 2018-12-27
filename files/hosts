@@ -1,0 +1,7 @@
+127.0.0.1   	localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         	localhost localhost.localdomain localhost6 localhost6.localdomain6
+10.0.2.15   	agent1 agent1.example.com	
+10.0.2.5    	agent2 agent2.example.com
+10.0.2.4    	puppetmaster puppetmaster.example.com
+192.168.0.105   agent3 agent3.example.com
+10.0.2.7	agent4 agent4.example.com
