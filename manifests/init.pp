@@ -42,9 +42,6 @@
 #
 # Copyright 2018 Your name here, unless otherwise noted.
 #
-#This is test comment
-#this is second comment
-#this is third comment
 class base {
   include base::manage_hosts_file
   include base::packages
